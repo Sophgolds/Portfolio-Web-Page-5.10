@@ -4,20 +4,23 @@
 
 
 header h1{
-  background-color: :
-  color: ;
   font-family: "Times New Roman";
 }
 
-a:link{color: }
-a:vistied{color: }
-a:hover{color: }
-a:active{color: }
+main{
+  border: 3px solid #d7263d;
+  padding: 10px;
+  
 
-h2{
-  color: 
-}
+a:link{color: #5abcb9;}
+a:vistied{color: #a8dadc;}
+a:hover{color: #f96e46;}
+a:active{color: #f9c846;}
 
 footer{
-  color: black;
+  color: #545863;
+}
+ 
+footer p{
+  color: white;
 }
