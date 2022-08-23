@@ -1,7 +1,11 @@
-header h1{
+.text-center{
   text-align: center;
-  background-color: black:
-  color: red;
+}
+
+
+header h1{
+  background-color: :
+  color: ;
   font-family: "Times New Roman";
 }
 
@@ -9,4 +13,11 @@ a:link{color: }
 a:vistied{color: }
 a:hover{color: }
 a:active{color: }
-  
+
+h2{
+  color: 
+}
+
+footer{
+  color: black;
+}
