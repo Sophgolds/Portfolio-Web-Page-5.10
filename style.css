@@ -41,5 +41,10 @@ body{
   margin: 0px;
 }
 
-
+header,
+main,
+footer {
+    margin: 0;
+    padding: 1px; /* tweaked from 0 to 1px */
+}
 
