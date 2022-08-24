@@ -4,7 +4,7 @@
 
 .dark-color{
   background-color: #22333B;
-  color: #f2f4f3;
+  color: #d2d2d2;
 }
 
 .light-color{
@@ -17,6 +17,25 @@ a:link{color: #5abcb9;}
 a:vistied{color: #a8dadc;}
 a:hover{color: #f96e46;}
 a:active{color: #f9c846;}
+
+
+hr{
+  background-color: #22333b;
+  height: 10px;
+  border: 3px solid #22333b;
+  margin-top: 25px;
+  margin-bottom: 25px;
+}
+
+.wrapper{
+  width: 300px;
+  margin: auto;
+}
+
+img{
+  width: 300px;
+  length: 300px;
+}
 
 
 
