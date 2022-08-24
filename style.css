@@ -2,12 +2,14 @@
   text-align: center;
 }
 
-main{
-  background-color: #d2bba0;
+.dark-color{
+  background-color: #22333B;
+  color: #f2f4f3;
 }
 
-header h1{
-  font-family: "Times New Roman";
+.light-color{
+  background-color: #a6a09a;
+  color: #5e503f;
 }
   
 
@@ -16,10 +18,5 @@ a:vistied{color: #a8dadc;}
 a:hover{color: #f96e46;}
 a:active{color: #f9c846;}
 
-footer, header{
-  background-color: #15113;
-}
- 
-footer p{
-  color: white;
-}
+
+
