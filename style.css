@@ -1,3 +1,9 @@
+header, main, footer{
+  margin: 0;
+  padding: 1px;
+}
+
+
 .text-center{
   text-align: center;
 }
@@ -37,9 +43,6 @@ img{
   length: 300px;
 }
 
-body{
-  margin: 0px;
-}
 
 
 
