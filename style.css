@@ -1,9 +1,19 @@
+/* Fixes the margin error */
 header, main, footer{
   margin: 0;
   padding: 1px;
 }
 
-
+h1{
+  font-family: "Times New Roman", Ariel, Sherif;
+  font-size: 20px;
+}
+/* changes the all these texts */
+h2,h3,p{
+  font-family: "Times New Roman", Ariel, Sherif;
+}
+  
+/* makes all the text move to the center */
 .text-center{
   text-align: center;
 }
@@ -18,6 +28,7 @@ header, main, footer{
   color: #5e503f;
 }
   
+/* for the links */
 
 a:link{color: #5abcb9;}
 a:vistied{color: #a8dadc;}
@@ -42,7 +53,7 @@ img{
   width: 300px;
   length: 300px;
 }
-
+/* gets rid of the numbers so it looks neater */
 ol{
   list-style-type: none;
 }
