@@ -43,6 +43,10 @@ img{
   length: 300px;
 }
 
+ol{
+  list-style-type: none;
+}
+
 
 
 
