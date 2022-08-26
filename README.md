@@ -1,8 +1,11 @@
 # Portfolio-Web-Page-5.10
 
-<!-- Create a profile page about information about youself for a portfolio --->
+Create a profile page about information about youself for a portfolio 
 
-<!-- All this information is located in the body -->
+
+All this information is located in the body ...
+
+
 Header --> Whatever you want to name the page
 
 Main should include the following sections ...
