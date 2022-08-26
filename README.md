@@ -11,7 +11,7 @@ Header --> Whatever you want to name the page
 Main should include the following sections ...
 
 Introduction ...
- -Photo of youself
+ - Photo of youself
  - This should include name and location
  - Also any relevent information
 
